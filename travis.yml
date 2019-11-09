@@ -19,4 +19,4 @@ before_install:
 
 
 install:
-  - 'echo helloworld' 
+  - echo 'helloworld' 
